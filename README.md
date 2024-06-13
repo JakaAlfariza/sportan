@@ -1,4 +1,4 @@
-# lat2
+# Sport News App [Flutter]
 
 A new Flutter project.
 
